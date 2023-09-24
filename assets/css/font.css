@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'kaftan';
+    src: url('../fonts/kaftan-trial.otf') format('opentype');
+    
+  }
+  
+  @font-face {
+    font-family: 'nexus';
+    src: url('../fonts/Nexus-ZV54m.ttf') format('truetype');
+    
+  }
