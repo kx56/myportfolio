@@ -1249,7 +1249,7 @@ ol {
 
 
 .blog-details-area {
-    padding-top: 130px;
+    padding-top: 30px;
 }
 .blog-details-area .blog-details-content {
     padding-right: 85px;
@@ -1260,6 +1260,7 @@ ol {
 .blog-details-area .blog-details-content .img-box img {
     display: block;
     width: 100%;
+    border-radius: 15px;
 }
 .blog-details-area .blog-details-content h1 {
     color: #ffffff;
@@ -1869,7 +1870,7 @@ ol {
 
     .blog-details-area,
     .blog-area {
-        padding-top: 40px;
+        padding-top: 10px;
     }
     .blog-details-area .blog-details-content,
     .blog-area .blog-items {
